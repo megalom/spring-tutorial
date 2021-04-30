@@ -1,0 +1,12 @@
+ru/megalom/springrestcrud/exception/CustomerErrorResponse.class
+ru/megalom/springrestcrud/dao/CustomerDaoImpl.class
+ru/megalom/springrestcrud/exception/CustomerNotFoundException.class
+ru/megalom/springrestcrud/entity/Customer.class
+ru/megalom/springrestcrud/dao/CustomerDao.class
+ru/megalom/springrestcrud/service/CustomerServiceImpl.class
+ru/megalom/springrestcrud/config/SpringConfig.class
+ru/megalom/springrestcrud/controller/CustomerController.class
+ru/megalom/springrestcrud/service/CustomerService.class
+ru/megalom/springrestcrud/config/RestDispatcher.class
+ru/megalom/springrestcrud/controller/TestController.class
+ru/megalom/springrestcrud/exception/CustomerRestExceptionHandler.class

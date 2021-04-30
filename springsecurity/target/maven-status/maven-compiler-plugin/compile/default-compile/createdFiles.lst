@@ -1,0 +1,8 @@
+ru/megalom/spingsecurity/demo/controller/AdminController.class
+ru/megalom/spingsecurity/demo/config/SecurityWebApplicationInitializer.class
+ru/megalom/spingsecurity/demo/controller/LoginController.class
+ru/megalom/spingsecurity/demo/config/DispatcherInitializer.class
+ru/megalom/spingsecurity/demo/controller/LeadersController.class
+ru/megalom/spingsecurity/demo/controller/DemoController.class
+ru/megalom/spingsecurity/demo/config/DemoAppConfig.class
+ru/megalom/spingsecurity/demo/config/DemoSecurityConfig.class

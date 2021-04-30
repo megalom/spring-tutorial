@@ -1,0 +1,6 @@
+ru/megalom/springcrud/controllers/PeopleController.class
+ru/megalom/springcrud/config/SpringMVCInitializer.class
+ru/megalom/springcrud/dao/PersonMapper.class
+ru/megalom/springcrud/dao/PersonDAO.class
+ru/megalom/springcrud/config/SpringConfig.class
+ru/megalom/springcrud/models/Person.class

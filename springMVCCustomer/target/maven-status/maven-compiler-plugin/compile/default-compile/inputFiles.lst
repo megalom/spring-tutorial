@@ -1,0 +1,9 @@
+/home/megalom/programming/java/Projects/springMVCCustomer/src/main/java/ru/megalom/springMVCCustomer/controller/CustomerController.java
+/home/megalom/programming/java/Projects/springMVCCustomer/src/main/java/ru/megalom/springMVCCustomer/service/CustomerServiceImpl.java
+/home/megalom/programming/java/Projects/springMVCCustomer/src/main/java/ru/megalom/springMVCCustomer/dao/CustomerDAOImpl.java
+/home/megalom/programming/java/Projects/springMVCCustomer/src/main/java/ru/megalom/springMVCCustomer/dao/CustomerDAO.java
+/home/megalom/programming/java/Projects/springMVCCustomer/src/main/java/ru/megalom/springMVCCustomer/service/CustomerService.java
+/home/megalom/programming/java/Projects/springMVCCustomer/src/main/java/ru/megalom/springMVCCustomer/util/CreateCustomers.java
+/home/megalom/programming/java/Projects/springMVCCustomer/src/main/java/ru/megalom/springMVCCustomer/util/TestDbServlet.java
+/home/megalom/programming/java/Projects/springMVCCustomer/src/main/java/ru/megalom/springMVCCustomer/aspect/CRMLoggingAspect.java
+/home/megalom/programming/java/Projects/springMVCCustomer/src/main/java/ru/megalom/springMVCCustomer/entity/Customer.java

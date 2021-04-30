@@ -1,0 +1,9 @@
+ru/megalom/springMVCCustomer/dao/CustomerDAO.class
+ru/megalom/springMVCCustomer/service/CustomerServiceImpl.class
+ru/megalom/springMVCCustomer/util/TestDbServlet.class
+ru/megalom/springMVCCustomer/aspect/CRMLoggingAspect.class
+ru/megalom/springMVCCustomer/entity/Customer.class
+ru/megalom/springMVCCustomer/controller/CustomerController.class
+ru/megalom/springMVCCustomer/util/CreateCustomers.class
+ru/megalom/springMVCCustomer/dao/CustomerDAOImpl.class
+ru/megalom/springMVCCustomer/service/CustomerService.class

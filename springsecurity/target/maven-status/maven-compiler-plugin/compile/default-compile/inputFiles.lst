@@ -1,0 +1,8 @@
+/home/megalom/programming/java/Projects/springsecurity/src/main/java/ru/megalom/spingsecurity/demo/config/DemoAppConfig.java
+/home/megalom/programming/java/Projects/springsecurity/src/main/java/ru/megalom/spingsecurity/demo/config/DispatcherInitializer.java
+/home/megalom/programming/java/Projects/springsecurity/src/main/java/ru/megalom/spingsecurity/demo/controller/DemoController.java
+/home/megalom/programming/java/Projects/springsecurity/src/main/java/ru/megalom/spingsecurity/demo/config/SecurityWebApplicationInitializer.java
+/home/megalom/programming/java/Projects/springsecurity/src/main/java/ru/megalom/spingsecurity/demo/config/DemoSecurityConfig.java
+/home/megalom/programming/java/Projects/springsecurity/src/main/java/ru/megalom/spingsecurity/demo/controller/LeadersController.java
+/home/megalom/programming/java/Projects/springsecurity/src/main/java/ru/megalom/spingsecurity/demo/controller/AdminController.java
+/home/megalom/programming/java/Projects/springsecurity/src/main/java/ru/megalom/spingsecurity/demo/controller/LoginController.java

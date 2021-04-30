@@ -1,0 +1,8 @@
+ru/megalom/restdemo/entity/StudentErrorResponce.class
+ru/megalom/restdemo/config/RestDispatcher.class
+ru/megalom/restdemo/rest/StudentRestController.class
+ru/megalom/restdemo/exception/StudentRestExceptionHandler.class
+ru/megalom/restdemo/entity/Student.class
+ru/megalom/restdemo/config/RestConfig.class
+ru/megalom/restdemo/rest/DemoRestController.class
+ru/megalom/restdemo/exception/StudentNotFoundException.class
